@@ -296,3 +296,12 @@ img{
 }
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
+
+.flags {
+	margin-top: -10px;
+	margin-bottom: 10px;
+}
+
+.flags a {
+	margin: 0 5px;
+}
