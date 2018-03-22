@@ -284,7 +284,7 @@ img{
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
 	.main-wrapper {
-	  padding-bottom: 130px;
+	  padding-bottom: 150px;
 	}
   .skillset .level-title {
     display: inline-block;
